@@ -1,0 +1,26 @@
+/*DOCUMENTO*/
+
+* { margin: 0;
+     padding: 0%; }
+
+
+body{font-family: "Libre Baskerville", serif;}
+
+div.accion a {background-color: rgb(239, 180, 220); 
+               display: block;
+               width: 300px;
+               text-align: center;
+               padding: 8px 0px;
+               color: rgb(245, 245, 244);
+               text-decoration: none;
+               border-radius: 8px;
+            margin: 24px auto;}
+
+
+ div.accion a:hover { background-color: rgb(208, 119, 177); }
+
+ div.accion a:active { background-color: yellowgreen; }
+ .contenido p:nth-child(3) {background-color: purple;
+                            padding: 16px 16px;
+                        border-radius: 8px;
+                    border: 1px dotted navy;}
